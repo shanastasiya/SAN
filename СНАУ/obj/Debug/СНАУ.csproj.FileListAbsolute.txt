@@ -1,0 +1,18 @@
+c:\users\home-pc\documents\visual studio 2015\Projects\СНАУ\СНАУ\bin\Debug\СНАУ.exe.config
+c:\users\home-pc\documents\visual studio 2015\Projects\СНАУ\СНАУ\bin\Debug\СНАУ.exe
+c:\users\home-pc\documents\visual studio 2015\Projects\СНАУ\СНАУ\bin\Debug\СНАУ.pdb
+c:\users\home-pc\documents\visual studio 2015\Projects\СНАУ\СНАУ\obj\Debug\СНАУ.csprojResolveAssemblyReference.cache
+c:\users\home-pc\documents\visual studio 2015\Projects\СНАУ\СНАУ\obj\Debug\СНАУ.Form1.resources
+c:\users\home-pc\documents\visual studio 2015\Projects\СНАУ\СНАУ\obj\Debug\СНАУ.Properties.Resources.resources
+c:\users\home-pc\documents\visual studio 2015\Projects\СНАУ\СНАУ\obj\Debug\СНАУ.csproj.GenerateResource.Cache
+c:\users\home-pc\documents\visual studio 2015\Projects\СНАУ\СНАУ\obj\Debug\СНАУ.exe
+c:\users\home-pc\documents\visual studio 2015\Projects\СНАУ\СНАУ\obj\Debug\СНАУ.pdb
+C:\Users\Home-pc\Documents\СНАУ\СНАУ\bin\Debug\СНАУ.exe.config
+C:\Users\Home-pc\Documents\СНАУ\СНАУ\obj\Debug\СНАУ.exe
+C:\Users\Home-pc\Documents\СНАУ\СНАУ\obj\Debug\СНАУ.pdb
+C:\Users\Home-pc\Documents\СНАУ\СНАУ\bin\Debug\СНАУ.exe
+C:\Users\Home-pc\Documents\СНАУ\СНАУ\bin\Debug\СНАУ.pdb
+C:\Users\Home-pc\Documents\СНАУ\СНАУ\obj\Debug\СНАУ.csprojResolveAssemblyReference.cache
+C:\Users\Home-pc\Documents\СНАУ\СНАУ\obj\Debug\СНАУ.Form1.resources
+C:\Users\Home-pc\Documents\СНАУ\СНАУ\obj\Debug\СНАУ.Properties.Resources.resources
+C:\Users\Home-pc\Documents\СНАУ\СНАУ\obj\Debug\СНАУ.csproj.GenerateResource.Cache
